@@ -1,6 +1,6 @@
 {
   "name": "task-manager",
-  "description": "ADHD-friendly task management app with smart suggestions",
+  "description": "Zero-friction task capture with calendar integration and smart time-based task suggestions",
   "version": "0.2.0",
   "author": "Trevor Miller",
   "license": "MIT",
